@@ -1,2 +1,3 @@
-# reveal_bitcoin_vs_altcoins
-Slide deck arguing: Bitcoin is interesting, altcoins are not
+# Bitcoin > altcoins
+
+Slide deck in [reveal.js](https://revealjs.com/) arguing: Bitcoin is interesting, altcoins are not
